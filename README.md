@@ -45,3 +45,12 @@ Python • Pandas • NLP • spaCy • VADER • TF-IDF • Logistic Regression
 
 ## Evidence boundary
 This repository is a portfolio packaging of a graduate unstructured-data analytics project. Results are preserved from the executed final notebook/executive summary. Any later refactoring should preserve the validated metrics unless the model is explicitly rerun and new results are documented.
+
+
+---
+
+## Portfolio navigation
+- [George Danut — Analytics & BI Portfolio](https://gdanut98.github.io/GeorgeDanut.github.io/)
+- [GitHub profile](https://github.com/Gdanut98)
+
+**Reviewer path:** Start with this README, then inspect the repository's case-study/results documentation and executable SQL or Python evidence. Academic foundations and later portfolio extensions are identified separately where applicable.
